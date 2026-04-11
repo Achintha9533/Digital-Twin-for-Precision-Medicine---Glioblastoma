@@ -1,0 +1,4 @@
+*.nii.gz
+*.xlsx
+*.csv
+.ipynb_checkpoints/
